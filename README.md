@@ -7,6 +7,7 @@ This extension only support start and stop screen cast or screen mirroring
 
 For more information about AllShare Framework please see [here][1]
 
+![](https://github.com/samsungdevs/etc/raw/master/screenshot.jpg)
 
 
 Download
@@ -41,4 +42,4 @@ License
 
 
  [1]: http://developer.samsung.com/allshare-framework
- [2]: http://goo.gl/ADa4vy
+ [2]: https://github.com/samsungdevs/AllShareANE/raw/master/Build/AllShareExtension.ane
