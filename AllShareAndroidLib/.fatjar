@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 22 16:16:21 SGT 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=AllShareAndroidLib.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|FlashRuntimeExtensions.jar>;<jar|android-support-v4.jar>
+includes=

@@ -1,0 +1,12 @@
+bin/
+gen/
+bin/
+bin-debug/
+AllShareAndroidLib/.project
+AllShareExtension.ane
+AllShareFlashTest.apk
+AllShareFlashtest.html
+AllShareFlashTest.swf
+AllShareExtension.swc
+Build/android/
+Build/extension.xml
